@@ -1,8 +1,16 @@
-body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-}
-
-a {
-  color: #00B7FF;
-}
+table, th, td {
+    border: 1px solid black;
+  }
+  table, th, td {
+    border: 1px solid rgb(163, 200, 203);
+    border-collapse: collapse;
+  }
+  
+  tr:nth-child(even) {
+    background-color: rgba(68, 225, 128, 0.4);
+  }
+  
+  th:nth-child(even),td:nth-child(even) {
+    background-color: rgba(12, 209, 74, 0.4);
+  }
+  
