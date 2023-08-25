@@ -80,6 +80,46 @@ const nameList = [
   {
     'id': 20, 'term': 'sprint', 'description': 'A sprint is a defined work period, usually a month or less, in which a scrum team completes a discrete unit of work.',
     'reference': 'Plutora. (n.d.). "DevOps at Scale: Terminology Glossary." Plutora. Retrieved from https://www.plutora.com/devops-at-scale/terminology-glossary'
+  },
+  {
+    'id': 21, 'term': 'Artifact', 'description': 'Any description of a process used to create a piece of software that can be referred to, including diagrams, user requirements, and UML models.',
+    'reference': 'DZone, "48 DevOps Terms You Should Know: A DevOps Glossary," Medium, july. 17, 2017. [Online]. Available: https://medium.com/@DZoneInc/48-devops-terms-you-should-know-a-devops-glossary-37e60fd23752.n'
+  },
+  {
+    'id': 22, 'term': 'Build Agent', 'description': 'An agent used in continuous integration that can be installed locally or remotely, depending on the server. The agent sends and receives messages relating to the creation of software builds.',
+    'reference': 'Simplilearn. (n.d.). "Top DevOps Terms You Should Know." Simplilearn. Retrieved from https://www.simplilearn.com/top-devops-terms-you-should-know-article'
+  },
+  {
+    'id': 23, 'term': 'Continuous Integration', 'description': ' a development practice that requires developers to integrate code into a shared repository several times a day.',
+    'reference': 'Digital.ai. (n.d.). "Common DevOps Terms." Digital.ai. Retrieved from https://digital.ai/glossary/common-devops-terms/'
+  },
+  {
+    'id': 24, 'term': 'Delivery Package', 'description': 'Set of release items (files, images, etc.) that  are packaged for deployment.',
+    'reference': 'DevOps istitute (2020). "DevOps Master Glossary." Retrieved from https://assets.ctfassets.net/82ripq7fjls2/5IhUvz2yDKCePQbSM5vj1V/e676e3e6028e580b536e79f472c607c2/DevOps-Master-Glossary-10Dec2020.pdf'
+  },
+  {
+    'id': 25, 'term': 'Everything as Code', 'description': 'everything from bare metal servers to deployment configurations is stored in a repository as code and can be recreated or rolled back to a past state with the click of a button.',
+    'reference': 'Plutora. (n.d.). "DevOps at Scale: Terminology Glossary." Plutora. Retrieved from https://www.plutora.com/devops-at-scale/terminology-glossary'
+  },
+  {
+    'id': 26, 'term': 'Mean Time to Recovery (MTTR)', 'description': 'The average time it takes a system or component to recover from a failure and return to production status.',
+    'reference': 'DZone, "48 DevOps Terms You Should Know: A DevOps Glossary," Medium, july. 17, 2017. [Online]. Available: https://medium.com/@DZoneInc/48-devops-terms-you-should-know-a-devops-glossary-37e60fd23752.n'
+  },
+  {
+    'id': 27, 'term': 'Technical debt', 'description': 'The extra development work that results when an easily implemented code is used in the short run, rather than the application of the best overall solution.',
+    'reference': 'Simplilearn. (n.d.). "Top DevOps Terms You Should Know." Simplilearn. Retrieved from https://www.simplilearn.com/top-devops-terms-you-should-know-article'
+  },
+  {
+    'id': 28, 'term': 'Release management:', 'description': 'the process of managing software releases from the development stage to the actual software release itself.',
+    'reference': 'Digital.ai. (n.d.). "Common DevOps Terms." Digital.ai. Retrieved from https://digital.ai/glossary/common-devops-terms/'
+  },
+  {
+    'id': 29, 'term': 'Metric', 'description': 'Something that is measured and reported upon to help manage a process, IT service or activity.',
+    'reference': 'DevOps istitute (2020). "DevOps Master Glossary." Retrieved from https://assets.ctfassets.net/82ripq7fjls2/5IhUvz2yDKCePQbSM5vj1V/e676e3e6028e580b536e79f472c607c2/DevOps-Master-Glossary-10Dec2020.pdf'
+  },
+  {
+    'id': 30, 'term': 'Selenium', 'description': 'Popular open‐source tool for software testing GUI and web applications.',
+    'reference': 'DevOps istitute (2020). "DevOps Master Glossary." Retrieved from https://assets.ctfassets.net/82ripq7fjls2/5IhUvz2yDKCePQbSM5vj1V/e676e3e6028e580b536e79f472c607c2/DevOps-Master-Glossary-10Dec2020.pdf'
   }
 
 ];
