@@ -110,7 +110,7 @@ const nameList = [
     'reference': 'Simplilearn. (n.d.). "Top DevOps Terms You Should Know." Simplilearn. Retrieved from https://www.simplilearn.com/top-devops-terms-you-should-know-article'
   },
   {
-    'id': 28, 'term': 'Release management:', 'description': 'the process of managing software releases from the development stage to the actual software release itself.',
+    'id': 28, 'term': 'Release management', 'description': 'the process of managing software releases from the development stage to the actual software release itself.',
     'reference': 'Digital.ai. (n.d.). "Common DevOps Terms." Digital.ai. Retrieved from https://digital.ai/glossary/common-devops-terms/'
   },
   {
