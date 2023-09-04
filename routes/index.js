@@ -120,7 +120,48 @@ const nameList = [
   {
     'id': 30, 'term': 'Selenium', 'description': 'Popular open‐source tool for software testing GUI and web applications.',
     'reference': 'DevOps istitute (2020). "DevOps Master Glossary." Retrieved from https://assets.ctfassets.net/82ripq7fjls2/5IhUvz2yDKCePQbSM5vj1V/e676e3e6028e580b536e79f472c607c2/DevOps-Master-Glossary-10Dec2020.pdf'
+  },
+  {
+    'id': 31, 'term': 'Application Release Automation', 'description': 'A practice of deploying software releases to various environments and their configurations with aslittle human interaction as possible.',
+    'reference': 'DZone. (n.d.). "48 DevOps Terms You Should Know: A DevOps Glossary." Medium. Retrieved from https://medium.com/@DZoneInc/48-devops-terms-you-should-know-a-devops-glossary-37e60fd23752.'
+  },
+  {
+    'id': 32, 'term': 'Behavior Driven Development', 'description': 'Test cases are created by simulating an EUTs externally observable inputs and outputs.',
+    'reference': 'DevOps istitute (2020). "DevOps Master Glossary." Retrieved from https://assets.ctfassets.net/82ripq7fjls2/5IhUvz2yDKCePQbSM5vj1V/e676e3e6028e580b536e79f472c607c2/DevOps-Master-Glossary-10Dec2020.pdf'
+  },
+  {
+    'id': 33, 'term': 'Container', 'description': 'containers are stand-alone, executable packages containing everything needed to run a piece of software.',
+    'reference': 'Common DevOps Terms." Digital.ai. Retrieved from https://digital.ai/glossary/common-devops-terms/'
+  },
+  {
+    'id': 34, 'term': 'Deployment Pipeline', 'description': 'An automated multi-step process that takes software from version control to making it available to an organizations users.',
+    'reference': 'Simplilearn. (n.d.). "Top DevOps Terms You Should Know." Simplilearn. Retrieved from https://www.simplilearn.com/top-devops-terms-you-should-know-article'
+  },
+  {
+    'id': 35, 'term': 'Legacy Application', 'description': 'An outdated or obsolete software program that is difficult to transition away from due to time, money, or other challenges within the organization.',
+    'reference': 'Plutora. (n.d.). "DevOps at Scale: Terminology Glossary." Plutora. Retrieved from https://www.plutora.com/devops-at-scale/terminology-glossary'
+  },
+  {
+    'id': 36, 'term': 'Self-Service Deployment', 'description': 'The action of automating deployment processes enough for developers to allow project managers or even clients to directly control deployments.',
+    'reference': 'DZone. (n.d.). "48 DevOps Terms You Should Know: A DevOps Glossary." Medium. Retrieved from https://medium.com/@DZoneInc/48-devops-terms-you-should-know-a-devops-glossary-37e60fd23752.'
+  },
+  {
+    'id': 37, 'term': 'DevOps Pipeline', 'description': 'The entire set of interconnected processes that make up a DevOps Infrastructure.',
+    'reference': 'DevOps istitute (2020). "DevOps Master Glossary." Retrieved from https://assets.ctfassets.net/82ripq7fjls2/5IhUvz2yDKCePQbSM5vj1V/e676e3e6028e580b536e79f472c607c2/DevOps-Master-Glossary-10Dec2020.pdf'
+  },
+  {
+    'id': 38, 'term': 'Version control system ', 'description': 'a system that records changes to a file or set of files over time so that you can recall specific versions later.',
+    'reference': 'Common DevOps Terms." Digital.ai. Retrieved from https://digital.ai/glossary/common-devops-terms/'
+  },
+  {
+    'id': 39, 'term': 'Test Automation', 'description': 'Using specialized software to control the execution of tests and compare actual outcomes against predicted outcomes.',
+    'reference': 'Simplilearn. (n.d.). "Top DevOps Terms You Should Know." Simplilearn. Retrieved from https://www.simplilearn.com/top-devops-terms-you-should-know-article'
+  },
+  {
+    'id': 40, 'term': 'Private Cloud', 'description': 'A private cloud serves the needs of a single organization. It is often hosted on-prem and is optimized to fit a particular infrastructure use case.',
+    'reference': 'Plutora. (n.d.). "DevOps at Scale: Terminology Glossary." Plutora. Retrieved from https://www.plutora.com/devops-at-scale/terminology-glossary'
   }
+
 
 ];
 router.get("/", function (req, res, next) {
