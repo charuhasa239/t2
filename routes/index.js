@@ -160,6 +160,46 @@ const nameList = [
   {
     'id': 40, 'term': 'Private Cloud', 'description': 'A private cloud serves the needs of a single organization. It is often hosted on-prem and is optimized to fit a particular infrastructure use case.',
     'reference': 'Plutora. (n.d.). "DevOps at Scale: Terminology Glossary." Plutora. Retrieved from https://www.plutora.com/devops-at-scale/terminology-glossary'
+  },
+  {
+    'id': 41, 'term': 'Andon', 'description': 'A system gives an assembly line worker the ability, and moreover the empowerment, to stop production when a defect is found, and immediately call for assistance.',
+    'reference': 'DevOps istitute (2020). "DevOps Master Glossary." Retrieved from https://assets.ctfassets.net/82ripq7fjls2/5IhUvz2yDKCePQbSM5vj1V/e676e3e6028e580b536e79f472c607c2/DevOps-Master-Glossary-10Dec2020.pdf'
+  },
+  {
+    'id': 42, 'term': 'Build automation', 'description': 'tools or frameworks that allow source code to be automatically compiled into releasable binaries. Usually includes code-level unit testing to ensure individual pieces of code behave as expected.',
+    'reference': 'Common DevOps Terms." Digital.ai. Retrieved from https://digital.ai/glossary/common-devops-terms/'
+  },
+  {
+    'id': 43, 'term': 'Configuration Management', 'description': 'A process for establishing and maintaining consistent settings of a system. These solutions also include SysAdmin tools for IT infrastructure automation.',
+    'reference': 'DevOps istitute (2020). "DevOps Master Glossary." Retrieved from https://assets.ctfassets.net/82ripq7fjls2/5IhUvz2yDKCePQbSM5vj1V/e676e3e6028e580b536e79f472c607c2/DevOps-Master-Glossary-10Dec2020.pdf'
+  },
+  {
+    'id': 44, 'term': 'Dark Launch', 'description': 'A development strategy in which a new version of the code, one that implements new features, is released to your team or a subset of the organization’s users, but is either not visibly activated or is only partially so. This process is similar to a Canary Release.',
+    'reference': 'Simplilearn. (n.d.). "Top DevOps Terms You Should Know." Simplilearn. Retrieved from https://www.simplilearn.com/top-devops-terms-you-should-know-article'
+  },
+  {
+    'id': 45, 'term': 'Epic', 'description': 'A big chunk of work, made up of a number of user stories, with a common objective.',
+    'reference': 'DevOps istitute (2020). "DevOps Master Glossary." Retrieved from https://assets.ctfassets.net/82ripq7fjls2/5IhUvz2yDKCePQbSM5vj1V/e676e3e6028e580b536e79f472c607c2/DevOps-Master-Glossary-10Dec2020.pdf'
+  },
+  {
+    'id': 46, 'term': 'Virtualization', 'description': 'a systems management approach in which users and applications do not use physical machines, but simulated systems running on actual, “real” hardware.',
+    'reference': 'Common DevOps Terms." Digital.ai. Retrieved from https://digital.ai/glossary/common-devops-terms/'
+  },
+  {
+    'id': 47, 'term': 'Microservices', 'description': 'A pattern of architectural design wherein complex applications is composed of a suite of smaller modular services or components that communicate with each other using language-agnostic APIs.',
+    'reference': 'Simplilearn. (n.d.). "Top DevOps Terms You Should Know." Simplilearn. Retrieved from https://www.simplilearn.com/top-devops-terms-you-should-know-article'
+  },
+  {
+    'id': 48, 'term': 'Product Owner', 'description': 'The product owner has a leadership role in agile development and is responsible for managing the product backlog.',
+    'reference': 'Plutora. (n.d.). "DevOps at Scale: Terminology Glossary." Plutora. Retrieved from https://www.plutora.com/devops-at-scale/terminology-glossary'
+  },
+  {
+    'id': 49, 'term': 'Issue Management', 'description': 'A process for capturing, tracking, and resolving bugs and issues throughout the software development lifecycle.',
+    'reference': 'DevOps istitute (2020). "DevOps Master Glossary." Retrieved from https://assets.ctfassets.net/82ripq7fjls2/5IhUvz2yDKCePQbSM5vj1V/e676e3e6028e580b536e79f472c607c2/DevOps-Master-Glossary-10Dec2020.pdf'
+  },
+  {
+    'id': 50, 'term': 'Virtual Machine', 'description': 'A software emulation of a physical computing resource that can be modified independent of the hardware attributes.',
+    'reference': 'DZone. (n.d.). "48 DevOps Terms You Should Know: A DevOps Glossary." Medium. Retrieved from https://medium.com/@DZoneInc/48-devops-terms-you-should-know-a-devops-glossary-37e60fd23752.'
   }
 
 
